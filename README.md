@@ -2,7 +2,7 @@
 
 installing demo app
 
-required node version is 6.10.2 and npm 3.10.10
+#required node version is 6.10.2 and npm 3.10.10
 
 ```bash
 sudo npm i -g @angular/cli
