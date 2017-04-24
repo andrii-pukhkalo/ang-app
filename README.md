@@ -1,5 +1,7 @@
 # app
-test app
+
+installing demo app
+
 ```bash
 ng new ang-app2
 cd ang-app2/
